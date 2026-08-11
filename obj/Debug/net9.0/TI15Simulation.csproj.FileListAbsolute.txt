@@ -1,0 +1,14 @@
+D:\Programs c#\TI15Simulation\TI15Simulation\bin\Debug\net9.0\TI15Simulation.exe
+D:\Programs c#\TI15Simulation\TI15Simulation\bin\Debug\net9.0\TI15Simulation.deps.json
+D:\Programs c#\TI15Simulation\TI15Simulation\bin\Debug\net9.0\TI15Simulation.runtimeconfig.json
+D:\Programs c#\TI15Simulation\TI15Simulation\bin\Debug\net9.0\TI15Simulation.dll
+D:\Programs c#\TI15Simulation\TI15Simulation\bin\Debug\net9.0\TI15Simulation.pdb
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.AssemblyInfoInputs.cache
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.AssemblyInfo.cs
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.csproj.CoreCompileInputs.cache
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.dll
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\refint\TI15Simulation.dll
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.pdb
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\TI15Simulation.genruntimeconfig.cache
+D:\Programs c#\TI15Simulation\TI15Simulation\obj\Debug\net9.0\ref\TI15Simulation.dll
