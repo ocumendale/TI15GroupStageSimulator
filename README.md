@@ -48,8 +48,8 @@ Edit the `Rating` value for any team to reflect your own power rankings, then re
 
 | Status | Teams |
 |---|---|
-| **Qualified** | Parivision, Team Yandex, Aurora Gaming, Team Spirit, ... |
-| **Eliminated** | LGD Gaming, Huligani, Team Resilience, ... |
+| **Qualified** | Parivision, Team Yandex, BetBoom, Aurora Gaming, Team Spirit, Vici gaming |
+| **Eliminated** | Nigma Galaxy, OG, Team Resilience, Xtreme Gaming, Team Liquid, LGD Gaming, Gamerlegion, Huligani |
 
 ## Disclaimer
 
